@@ -120,7 +120,7 @@ header nav ul .nav-item a {
   justify-content: flex-start;
   flex-wrap: wrap;
   padding: 38px 0;
-  font-size: calc(60px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(50px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
 }
 
 #services-section .container ul .service-item {
